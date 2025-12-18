@@ -42,7 +42,7 @@ It is suitable for **academic labs, mini projects, and Java practice**.
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/shubhratchaursiya/LibraryManagement_Basic_Project.git
+git clone https://github.com/shubhratchaursiya/LibraryManagement_Begineer_Level_Project.git
 ````
 
 📌 Replace `shubhratchaursiya` with your GitHub username.
